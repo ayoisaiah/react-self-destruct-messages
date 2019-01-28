@@ -1,6 +1,6 @@
 # Chatkit self-destructing messages demo
 
-Send self-destructing messages in a chatroom with React and Chatkit. Tutorial:
+Send self-destructing messages in a chatroom with React and Chatkit. Tutorial: https://pusher.com/tutorials/self-destruct-messages-react
 
 ## Getting Started
 
